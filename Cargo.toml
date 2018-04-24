@@ -1,0 +1,8 @@
+[package]
+authors = ["Moritz Ulrich <moritz@tarn-vedra.de>"]
+name = "pdf-renamer"
+version = "0.1.0"
+
+[dependencies]
+chrono = "0.4.2"
+lopdf = "0.15.1"
